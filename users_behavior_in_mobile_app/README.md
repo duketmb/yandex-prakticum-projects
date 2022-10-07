@@ -13,8 +13,4 @@
 Исследовать воронку событий и выяснить, изменяется ли конверсия при измененных дизайнерами шрифтах.
 
 ## Используемые библиотеки
-*pandas*,
-*matplotlib*,
-*plotly*,
-*scipy.stats*,
-*numpy*
+*pandas*, *matplotlib*, *plotly*, *scipy.stats*, *numpy*

@@ -20,9 +20,4 @@
 - возрастной рейтинг.
 
 ## Используемые библиотеки
-*pandas*
-*matplotlib*
-*seaborn*
-*scipy.stats*
-*numpy*
-*statistics*
+*pandas*, *matplotlib*, *seaborn*, *scipy.stats*, *numpy*, *statistics*

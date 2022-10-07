@@ -13,9 +13,4 @@
 
 Проанализировать поведение клиентов и выяснить, какой тариф лучше (приносит больше прибыли).
 ## Используемые библиотеки
-*pandas*
-*matplotlib*
-*seaborn*
-*scipy.stats*
-*numpy*
-*statistics*
+*pandas*, *matplotlib*, *seaborn*, *scipy.stats*, *numpy*, *statistics*

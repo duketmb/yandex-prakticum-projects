@@ -13,8 +13,4 @@
 2) Проанализировать результаты А/В-теста и проверить, увеличивает ли выбранная гипотеза выручку.
 
 ## Используемые библиотеки
-*pandas*
-*matplotlib*
-*seaborn*
-*numpy*
-*scipy.stats*
+*pandas*, *matplotlib*, *seaborn*, *numpy*, *scipy.stats*
